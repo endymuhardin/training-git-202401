@@ -85,3 +85,11 @@
     ```
     git merge github/main
     ```
+
+## Cara Undo ##
+
+1. Undo perubahan di local
+
+    ```
+    git reset --hard
+    ```
