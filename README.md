@@ -4,6 +4,8 @@
 
 [![Local dan Remote Repository](img/local-remote-repo.png)](img/local-remote-repo.png)
 
+[![Fetch dan Merge](img/fetch-merge.png)](img/fetch-merge.png)
+
 ## Membuat Repository
 
 1. Membuat Repository Local
