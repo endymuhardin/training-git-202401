@@ -29,7 +29,23 @@
     ```
     git commit -m "Commit pertama"
     ```
-4. Edward Added New Line
+## Membuat Repository Remote ##
+
+1. Buat repository di Github atau Gitlab
+
+2. Copy repository URL
+
+3. Daftarkan URL di repo local
+
+    ```
+    git remote add github git@github.com:endymuhardin/training-git-202401.git
+    ```
+
+4. Push local branch ke remote
+
+    ```
+    git push github main
+    ```
 
 ## Mengambil Repository dari Remote ##
 
