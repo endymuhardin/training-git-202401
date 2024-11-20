@@ -1,5 +1,9 @@
 # Belajar Git #
 
+[![Konsep Version Control](img/konsep-version-control.png)](img/konsep-version-control.png)
+
+[![Local dan Remote Repository](img/local-dan-remote-repository.png)](img/local-dan-remote-repository.png)
+
 ## Membuat Repository
 
 1. Membuat Repository Local
