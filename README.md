@@ -29,7 +29,7 @@
     ```
     git commit -m "Commit pertama"
     ```
-4. Edward Added New Line
+4. Edward Changed New Line Ya ..
 
 ## Mengambil Repository dari Remote ##
 
