@@ -2,7 +2,7 @@
 
 [![Konsep Version Control](img/konsep-version-control.png)](img/konsep-version-control.png)
 
-[![Local dan Remote Repository](img/local-dan-remote-repo.png)](img/local-dan-remote-repo.png)
+[![Local dan Remote Repository](img/local-remote-repo.png)](img/local-remote-repo.png)
 
 ## Membuat Repository
 
