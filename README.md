@@ -1,5 +1,7 @@
 # Belajar Git #
 
+## Membuat Repository
+
 1. Membuat Repository Local
 
     ```
@@ -22,4 +24,16 @@
 
     ```
     git commit -m "Commit pertama"
+    ```
+
+## Mengambil Repository dari Remote ##
+
+1. Pergi ke website remote repo, kemudian copy paste URL repositorynya
+
+    [![Git URL Gitlab](img/git-url.png)](img/git-url.png)
+
+2. Jalankan git clone
+
+    ```
+    git clone <url-repository>
     ```
