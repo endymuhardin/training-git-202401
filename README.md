@@ -29,6 +29,7 @@
     ```
     git commit -m "Commit pertama"
     ```
+
 ## Membuat Repository Remote ##
 
 1. Buat repository di Github atau Gitlab
@@ -45,6 +46,12 @@
 
     ```
     git push github main
+    ```
+
+5. Supaya next time tidak perlu menyebutkan remote dan branch, gunakan opsi `-u`
+
+    ```
+    git push -u github main
     ```
 
 ## Mengambil Repository dari Remote ##
