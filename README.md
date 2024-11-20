@@ -4,7 +4,7 @@
 
 [![Local dan Remote Repository](img/local-remote-repo.png)](img/local-remote-repo.png)
 
-[![Fetch dan Merge](img/fetch-merge.png)](img/fetch-merge.png)
+[![Kolaborasi](img/kolaborasi.png)](img/kolaborasi.png)
 
 ## Membuat Repository
 
