@@ -47,3 +47,15 @@
     ```
     git branch --all
     ```
+
+4. Mengambil perubahan dari remote repo ke branch remote di local repo
+
+    ```
+    git fetch github/main
+    ```
+
+5. Menggabungkan perubahan dari branch remote ke branch local
+
+    ```
+    git merge github/main
+    ```
