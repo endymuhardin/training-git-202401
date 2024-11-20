@@ -41,3 +41,9 @@
     ```
     git clone <url-repository>
     ```
+
+3. Melihat daftar branch local dan remote
+
+    ```
+    git branch --all
+    ```
