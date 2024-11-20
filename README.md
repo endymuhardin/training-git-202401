@@ -6,7 +6,7 @@
 
 [![Kolaborasi](img/kolaborasi.png)](img/kolaborasi.png)
 
-## Membuat Repository
+## Membuat Repository ##
 
 1. Membuat Repository Local
 
